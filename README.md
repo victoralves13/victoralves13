@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00D9FF&width=900&size=22&center=true&lines=I'm+a+Software+Engineer.;I'm+passionate+about+technology+and+continuous+learning!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=00D9FF&width=900&size=22&center=true&lines=I'm+a+Software+Engineering+student.;I'm+passionate+about+technology+and+continuous+learning!" alt="Typing SVG"/>
 </div>
 
 <br>
